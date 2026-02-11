@@ -9,12 +9,12 @@
 - *모든 팀원이 풀스택으로 개발에 참여했으며, 주 포지션은 아래와 같습니다.*
 <br>
 
-|   Name   | 이서영 | 강민정 | 이치승 | 정다운 
+|   Name   | 김기환 | 강민정 | 이서영 | 정다운 
 | :------: | --- | --- | --- | --- |
 | Position | 팀장 & 예약 기능 | 여행준비 기능 | 여행일지 기능 | 마일리지 기능 | Backend & UI |
 
 - 프로젝트 기간 : 2023년 5월 15일 ~ 2023년 6월 7일
-- 시연 영상 (유튜브) : https://youtu.be/TZmGoEAzEio
+- 시연 영상 (유튜브) :[ https://youtu.be/TZmGoEAzEio](https://www.youtube.com/watch?v=4Z8-5xEQgs4)
 
 <br> 
 
