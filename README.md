@@ -13,7 +13,7 @@
 | :------: | --- | --- | --- | --- |
 | Position | 팀장 & 예약 기능 | 여행준비 기능 | 여행일지 기능 | 마일리지 기능 | Backend & UI |
 
-- 프로젝트 기간 : 2023년 5월 15일 ~ 2023년 6월 7일
+- 프로젝트 기간 : 2023년 5월 15일 ~ 2023년 6월 1일
 - 시연 영상 (유튜브) :[ https://youtu.be/TZmGoEAzEio](https://www.youtube.com/watch?v=4Z8-5xEQgs4)
 
 <br> 
